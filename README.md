@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-profile-banner.jpg" alt="Jaime Alexi Sandoval — Data Science e Inteligencia Artificial" width="100%">
+</p>
+
 # Hola, soy Jaime Alexi Sandoval 👋
 
 Soy estudiante del **Magíster en Data Science e Inteligencia Artificial**. Me interesa transformar datos y problemas reales en soluciones claras, reproducibles y útiles, combinando análisis, programación e inteligencia artificial generativa.
